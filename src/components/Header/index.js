@@ -1,11 +1,12 @@
 
 import Nav from "../Nav";
 
-function Header() {
+function Header(props) {  
+  
   return (        
     <header>
       <h1 class="title-box" id="header-title"><a href="/">Antrell Kent</a></h1>
-      <Nav />
+      <Nav  currentPage={props.currentPage}  handlePageChange={props.handlePageChange} />
     </header>
   );
 }
