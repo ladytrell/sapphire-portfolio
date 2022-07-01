@@ -1,26 +1,37 @@
 import resumeFile from "../../assets/doc/Antrell-Kent-CV.pdf";
 
 function Resume() {
-    const frontEnd = ['HTML', 'CSS'];
+    const frontEnd = ['HTML', 'CSS', 'BootStrap', 'Responsive Design', 'React'];
+    const backEnd = ['Node', 'SQL', 'MongDB'];
 
     return (    
-      <section id="resume" class="primary-sections about">
+      <section id="resume" class="primary-sections">
         <div class="section-title">
             <h2>Resume</h2>
+        </div>
+        <div>
             <p>
                 Download my <a href={ resumeFile }  download>resume</a>
             </p>
             <div>
-                <p>
+                <h3>
                     Front-end Proficiencies
-                </p>
-                <ul>{ frontEnd[0] }</ul>
+                </h3>
+                <ul>
+                   {frontEnd.map(skill => (
+                        <li>{skill}</li>
+                    ))}
+                </ul>
             </div>            
             <div>
-                <p>
+                <h3>
                     Back-end Proficiencies
-                </p>
-                <ul></ul>
+                </h3>
+                <ul>
+                   {backEnd.map(skill => (
+                        <li>{skill}</li>
+                    ))}
+                </ul>
             </div>
         </div>
      </section>
