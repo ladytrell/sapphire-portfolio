@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# SAPPHIRE PORTFOLIO  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  ## Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  Single page web app for sharing portfolio details.  Includes a bio, focal projects, and contact details.
 
-## Available Scripts
+  Check it out at [Developer Snapshot](http://ladytrell.github.io/sapphire-portfolio)
 
-In the project directory, you can run:
+  ## Table of Contents (Optional)
 
-### `npm start`
+ - [Installation](#installation)
+ - [Usage](#usage)
+ - [Questions](#questions)
+ - [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ - Clone or download the application repository 
+[Sapphire Portfolio](https://github.com/ladytrell/sapphire-portfolio)
+ - Download and Install node.js if not already installed.  [node.js](https://nodejs.org/en/) for your platform:  [How to Install Node.js](https://nodejs.dev/learn/how-to-install-nodejs)
 
-### `npm test`
+  ## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ - Go to the directory location where you saved the application 
+ - Install dependencies
+ - npm install run start
+ - Type 'node index' to start the application. 
+ - Answer the series of questions to provide the details for the project's readme.
+ - Open dist director view access the created README.md file
 
-### `npm run build`
+  ## Demo Images
+  ![](./public/demo-image.jpg/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  ## Questions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  GitHub: [ladytrell](https://github.com/ladytrell)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  Email: [antrellkent@gmail.com](mailto:antrellkent@gmail.com)
 
-### `npm run eject`
+   
+  ## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  [MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
