@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sapphire-portfolio/static/css/main.975bcc11.css",
+    "main.js": "/sapphire-portfolio/static/js/main.0b1e2021.js",
+    "static/js/787.07592555.chunk.js": "/sapphire-portfolio/static/js/787.07592555.chunk.js",
+    "static/media/temp-image2.JPG": "/sapphire-portfolio/static/media/temp-image2.f211cea862df34662c7b.JPG",
+    "static/media/temp-image1.JPG": "/sapphire-portfolio/static/media/temp-image1.abebbf13a1d5c1e5629b.JPG",
+    "static/media/temp-image.JPG": "/sapphire-portfolio/static/media/temp-image.9cdfa3de3544c9b7636f.JPG",
+    "static/media/Antrell-Kent-CV.pdf": "/sapphire-portfolio/static/media/Antrell-Kent-CV.6509eddc5856be2bc165.pdf",
+    "static/media/portrait.jpg": "/sapphire-portfolio/static/media/portrait.b5171dc176d2eaaef6e0.jpg",
+    "static/media/dollar-bills-background-pile.jpg": "/sapphire-portfolio/static/media/dollar-bills-background-pile.1f5c9423c5b7c91ff7c3.jpg",
+    "static/media/oscar-keys-ojVMh1QTVGY-unsplash.jpg": "/sapphire-portfolio/static/media/oscar-keys-ojVMh1QTVGY-unsplash.99e3c99ba3cf529dead3.jpg",
+    "static/media/social-media-network.webp": "/sapphire-portfolio/static/media/social-media-network.e89b7f45e445c2aa92d0.webp",
+    "static/media/hero-image.jpg": "/sapphire-portfolio/static/media/hero-image.fcb6594249ff3538d2bd.jpg",
+    "static/media/blog-post-concept.webp": "/sapphire-portfolio/static/media/blog-post-concept.2743bbeac05115813a29.webp",
+    "static/media/weather-forecast.webp": "/sapphire-portfolio/static/media/weather-forecast.8b14277fa49c03232105.webp",
+    "index.html": "/sapphire-portfolio/index.html",
+    "static/media/favicon.ico": "/sapphire-portfolio/static/media/favicon.8b891495d6ce7465208a.ico",
+    "main.975bcc11.css.map": "/sapphire-portfolio/static/css/main.975bcc11.css.map",
+    "main.0b1e2021.js.map": "/sapphire-portfolio/static/js/main.0b1e2021.js.map",
+    "787.07592555.chunk.js.map": "/sapphire-portfolio/static/js/787.07592555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975bcc11.css",
+    "static/js/main.0b1e2021.js"
+  ]
+}
