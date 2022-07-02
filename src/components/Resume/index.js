@@ -13,7 +13,7 @@ function Resume() {
             <p>
                 Download my <a href={ resumeFile }  download>resume</a>
             </p>
-            <div>
+            <div className="skills">
                 <h3>
                     Front-end Proficiencies
                 </h3>
@@ -23,7 +23,7 @@ function Resume() {
                     ))}
                 </ul>
             </div>            
-            <div>
+            <div className="skills">
                 <h3>
                     Back-end Proficiencies
                 </h3>

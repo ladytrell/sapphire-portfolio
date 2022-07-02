@@ -52,7 +52,8 @@
 }
 
 body {
-background-color: aliceblue;
+  background-color: hsl(180, 65%, 65%);
+  color: var(--primary-color);
 }
 
 a {
@@ -80,10 +81,6 @@ header {
   top: 0;
   z-index: 9999; /*Stack order top*/
   height: 4.2em;
-}
-
-header a {
-  text-decoration: underline;
 }
 
 header h1 {
@@ -192,7 +189,7 @@ header nav ul li a {
 
 }
 
-.projects img:hover {
+.project img:hover {
   opacity: 1.0;
 }
 
@@ -219,6 +216,13 @@ header nav ul li a {
 }
 /* Projects STYLES END */
 
+.skills {
+  margin-top: 10%;
+}
+.skills ul {
+  list-style-position: inside
+}
+
 .contacts {  
   display: flex;
   flex-wrap: wrap;
@@ -227,10 +231,6 @@ header nav ul li a {
   list-style: none;
   flex: 0 0 60%;
   padding-top: var(--primary-space);   
-}
-
-.contacts a {
-  text-decoration: underline;
 }
 
 /* UTILITIES */ 
@@ -263,6 +263,10 @@ header nav ul li a {
     margin-top: 20px;
     width: 100%;
     justify-content: center;
+  }
+
+  header nav ul li a:hover {
+    color: white;
   }
 
   header nav ul li a {
