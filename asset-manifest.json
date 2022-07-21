@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/sapphire-portfolio/static/css/main.975bcc11.css",
-    "main.js": "/sapphire-portfolio/static/js/main.0b1e2021.js",
+    "main.js": "/sapphire-portfolio/static/js/main.6fbaf0f4.js",
     "static/js/787.07592555.chunk.js": "/sapphire-portfolio/static/js/787.07592555.chunk.js",
     "static/media/temp-image2.JPG": "/sapphire-portfolio/static/media/temp-image2.f211cea862df34662c7b.JPG",
     "static/media/temp-image1.JPG": "/sapphire-portfolio/static/media/temp-image1.abebbf13a1d5c1e5629b.JPG",
     "static/media/temp-image.JPG": "/sapphire-portfolio/static/media/temp-image.9cdfa3de3544c9b7636f.JPG",
+    "static/media/dog-walker-takes-photos-of-dogs.png": "/sapphire-portfolio/static/media/dog-walker-takes-photos-of-dogs.499573ba526628e90978.png",
     "static/media/Antrell-Kent-CV.pdf": "/sapphire-portfolio/static/media/Antrell-Kent-CV.6509eddc5856be2bc165.pdf",
     "static/media/portrait.jpg": "/sapphire-portfolio/static/media/portrait.b5171dc176d2eaaef6e0.jpg",
     "static/media/dollar-bills-background-pile.jpg": "/sapphire-portfolio/static/media/dollar-bills-background-pile.1f5c9423c5b7c91ff7c3.jpg",
@@ -17,11 +18,11 @@
     "index.html": "/sapphire-portfolio/index.html",
     "static/media/favicon.ico": "/sapphire-portfolio/static/media/favicon.8b891495d6ce7465208a.ico",
     "main.975bcc11.css.map": "/sapphire-portfolio/static/css/main.975bcc11.css.map",
-    "main.0b1e2021.js.map": "/sapphire-portfolio/static/js/main.0b1e2021.js.map",
+    "main.6fbaf0f4.js.map": "/sapphire-portfolio/static/js/main.6fbaf0f4.js.map",
     "787.07592555.chunk.js.map": "/sapphire-portfolio/static/js/787.07592555.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.975bcc11.css",
-    "static/js/main.0b1e2021.js"
+    "static/js/main.6fbaf0f4.js"
   ]
 }
