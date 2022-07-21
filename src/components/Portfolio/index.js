@@ -9,6 +9,13 @@ function Portfolio() {
             deployed: 'https://myersdg.github.io/rubyTarker/'
         },
         {
+            title: 'Live Hire',
+            subTitle: 'HandleBars & SQL',
+            image: 'oscar-keys-ojVMh1QTVGY-unsplash.jpg',
+            github:'https://github.com/ladytrell/entertaining-pen',
+            deployed: 'https://gentle-dawn-52689.herokuapp.com/'
+        },
+        {
             title: 'Budget Tracker',
             subTitle: 'Offline  Web App',
             image: 'dollar-bills-background-pile.jpg',
@@ -37,12 +44,12 @@ function Portfolio() {
             deployed: 'https://ladytrell.github.io/travel-weather/'
         },
         {
-            title: 'Live Hire',
-            subTitle: 'HandleBars & SQL',
-            image: 'oscar-keys-ojVMh1QTVGY-unsplash.jpg',
-            github:'https://github.com/ladytrell/entertaining-pen',
-            deployed: 'https://gentle-dawn-52689.herokuapp.com/'
-        }
+            title: 'Paw-sible',
+            subTitle: 'Mern App',
+            image: 'dog-walker-takes-photos-of-dogs.png',
+            github:'https://github.com/ladytrell/paw-sible_pet',
+            deployed: 'https://stark-mountain-98043.herokuapp.com/'
+        },
     ];
 
     //dynamically populate projects
