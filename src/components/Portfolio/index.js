@@ -63,9 +63,11 @@ function Portfolio() {
                 <article className="project">
                     <div className="title-box">                    
                         { project.deployed.length > 0 ?
-                            <a href={project.deployed} target="_blank" rel="noreferrer noopener">
-                                <h3>{project.title}</h3>                    
-                            </a>
+                            <h3>
+                                <a href={project.deployed} target="_blank" rel="noreferrer noopener">
+                                    {project.title}                    
+                                </a>
+                            </h3>
                             :
                             <h3>{project.title}</h3> 
                         }
