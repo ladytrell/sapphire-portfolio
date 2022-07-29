@@ -116,6 +116,16 @@ header nav ul, footer ul {
   list-style: none;
 }
 
+footer ul {
+  justify-content: space-around;
+}
+
+footer {
+  text-align: center;
+  width: 50%;
+  margin: 0% auto 5% auto;
+}
+
 header nav ul li a {   
   color: var(--secondary-color);
   padding: 10px var(--secondary-space);
@@ -251,6 +261,14 @@ footer {
   padding-top: var(--primary-space);   
 }
 
+#contact-form {
+  margin: 10px auto;
+}
+
+#contact-form div {
+  padding-bottom: 10px;
+}
+
 /* UTILITIES */ 
 .flex-row {
   display: flex;
@@ -290,13 +308,6 @@ footer {
   header nav ul li a {
     font-size: 20px;
   }
-
-  footer {
-    text-align: center;
-    width: 50%;
-    margin: 0% auto 5% auto;
-  }
-
 }
   
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
