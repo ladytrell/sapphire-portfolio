@@ -5,7 +5,7 @@ function Resume() {
     const backEnd = ['Node', 'SQL', 'MongDB'];
 
     return (    
-      <section id="resume" className="primary-sections">
+      <section id="resume" className="primary-sections section-box">
         <div className="section-title">
             <h2>Resume</h2>
         </div>

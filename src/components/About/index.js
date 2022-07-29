@@ -2,7 +2,7 @@ import portrait from "../../assets/images/portrait.jpg";
 
 function About() {
   return (    
-    <section id="about" className="primary-sections about">
+    <section id="about" className="primary-sections about section-box">
       <div className="section-title">
           <h2>About me</h2>
           <img id="portrait" src={portrait} style={{ maxHeight: 200 }} alt="head shot of Antrell Kent" />
