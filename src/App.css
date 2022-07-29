@@ -120,6 +120,12 @@ footer ul {
   justify-content: space-around;
 }
 
+footer {
+  text-align: center;
+  width: 50%;
+  margin: 0% auto 5% auto;
+}
+
 header nav ul li a {   
   color: var(--secondary-color);
   padding: 10px var(--secondary-space);
@@ -242,6 +248,14 @@ header nav ul li a {
   padding-top: var(--primary-space);   
 }
 
+#contact-form {
+  margin: 10px auto;
+}
+
+#contact-form div {
+  padding-bottom: 10px;
+}
+
 /* UTILITIES */ 
 .flex-row {
   display: flex;
@@ -281,13 +295,6 @@ header nav ul li a {
   header nav ul li a {
     font-size: 20px;
   }
-
-  footer {
-    text-align: center;
-    width: 50%;
-    margin: 0% auto 5% auto;
-  }
-
 }
   
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
