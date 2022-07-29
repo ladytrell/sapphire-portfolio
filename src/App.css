@@ -116,10 +116,6 @@ header nav ul, footer ul {
   list-style: none;
 }
 
-footer ul {
-  justify-content: space-around;
-}
-
 header nav ul li a {   
   color: var(--secondary-color);
   padding: 10px var(--secondary-space);
@@ -128,6 +124,19 @@ header nav ul li a {
 }
 
 /* HEADER / NAV BAR STYLES END */
+
+/* FOOTER STYLES START */
+footer ul {
+  justify-content: space-around;
+}
+
+
+footer {
+  text-align: center;
+  width: 50%;
+  margin: 0% auto 5% auto;
+}
+/* FOOTER STYLES END */
 
 /* Hero / Headshot STYLES START */
 .hero {
