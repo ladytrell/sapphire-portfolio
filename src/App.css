@@ -164,6 +164,14 @@ header nav ul li a {
 }
 
 /* About STYLES START */ 
+#about {
+  
+  width: 80%;
+  background-color: white;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
 .about article {  
   padding-right: var(--secondary-space); 
   padding-top: var(--primary-space);  

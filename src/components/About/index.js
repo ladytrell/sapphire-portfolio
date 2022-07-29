@@ -18,7 +18,7 @@ function About() {
               Returning to my first love of coding via the platform of the web.  I am excited about producing projects that are not limited to use in an enterprise environment, but still allow for limitless growth and technical challenge.  
           </p>
       </article>
-   </section>
+    </section>
   );
 }
 
