@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sapphire-portfolio/static/css/main.975bcc11.css",
-    "main.js": "/sapphire-portfolio/static/js/main.137d7ba0.js",
+    "main.css": "/sapphire-portfolio/static/css/main.5ccac33a.css",
+    "main.js": "/sapphire-portfolio/static/js/main.8f2999fd.js",
     "static/js/787.07592555.chunk.js": "/sapphire-portfolio/static/js/787.07592555.chunk.js",
     "static/media/temp-image2.JPG": "/sapphire-portfolio/static/media/temp-image2.f211cea862df34662c7b.JPG",
     "static/media/temp-image1.JPG": "/sapphire-portfolio/static/media/temp-image1.abebbf13a1d5c1e5629b.JPG",
@@ -17,12 +17,12 @@
     "static/media/weather-forecast.webp": "/sapphire-portfolio/static/media/weather-forecast.8b14277fa49c03232105.webp",
     "index.html": "/sapphire-portfolio/index.html",
     "static/media/favicon.ico": "/sapphire-portfolio/static/media/favicon.8b891495d6ce7465208a.ico",
-    "main.975bcc11.css.map": "/sapphire-portfolio/static/css/main.975bcc11.css.map",
-    "main.137d7ba0.js.map": "/sapphire-portfolio/static/js/main.137d7ba0.js.map",
+    "main.5ccac33a.css.map": "/sapphire-portfolio/static/css/main.5ccac33a.css.map",
+    "main.8f2999fd.js.map": "/sapphire-portfolio/static/js/main.8f2999fd.js.map",
     "787.07592555.chunk.js.map": "/sapphire-portfolio/static/js/787.07592555.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.975bcc11.css",
-    "static/js/main.137d7ba0.js"
+    "static/css/main.5ccac33a.css",
+    "static/js/main.8f2999fd.js"
   ]
 }
